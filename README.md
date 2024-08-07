@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vulcan877
+- 👀 I’m interested in programing, music, and art
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate on N/A
+- 📫 How to reach me N/A
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I know two languages

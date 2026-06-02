@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vulcan877
-- 👀 I’m interested in programing, music, and art
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me N/A
+- 👀 I’m interested in AI, tech, and entrepreneurship
+- 🌱 I'm currently looking for internships and experiences to learn something new
+- 💞️ I’m looking to publish my startup company, SecondStudio, an art supply resale e-commerce site
+- 📫 Reach me at noakaplan90@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I know two languages
